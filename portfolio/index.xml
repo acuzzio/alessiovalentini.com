@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Alessio Valentini Homepage</title>
+    <link>https://alessiovalentini.com/portfolio/</link>
+    <description>Recent content in Portfolios on Alessio Valentini Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://alessiovalentini.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grid Quantum Propagator</title>
+      <link>https://alessiovalentini.com/portfolio/2-gridquantum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiovalentini.com/portfolio/2-gridquantum/</guid>
+      <description>This package is capable of propagating a 3D wavepacket in many electronic states, taking into account the coupling between states and with an external field.
+We used this program in order to study the [2+2]photo-cycloaddition of Norbornadiene, one of the most promising reactions for the purpose of stocking solar or thermal energy, capable of storing a significant amount of energy (ΔH = 89 kJ/mol).
+This new program allowed to study this system after the electronic excitation triggered by several different external pulses.</description>
+    </item>
+    
+    <item>
+      <title>Retropaths</title>
+      <link>https://alessiovalentini.com/portfolio/1-retropaths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiovalentini.com/portfolio/1-retropaths/</guid>
+      <description>In this high throughput chemistry software, molecules are treated as graphs, and templates describe a chemical reaction in terms of its core structure, the edge edits and “R” groups, which are wild cards. Importantly, the use of graph theory ensures that the template generates all possible regioisomers.
+
+However, a chemical reaction can be composed of more than one step, and it can be accompanied by side reactions. That is why we introduce the concept of a reaction pot, which consists of reagents and environment molecules along with reaction conditions.</description>
+    </item>
+    
+    <item>
+      <title>Semiclassical Molecular Dynamics</title>
+      <link>https://alessiovalentini.com/portfolio/3-shmd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiovalentini.com/portfolio/3-shmd/</guid>
+      <description>A video of a QM/MM surface hop trajectory.
+ Your browser does not support the video tag.  </description>
+    </item>
+    
+  </channel>
+</rss>
