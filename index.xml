@@ -102,9 +102,9 @@ This is italic text</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alessiovalentini.com/portfolio/2-gridquantum/</guid>
-      <description>This package is capable of propagating a 3D wavepacket in many electronic states, taking into account the coupling between states and with an external field.
-We used this program in order to study the [2+2]photo-cycloaddition of Norbornadiene, one of the most promising reactions for the purpose of stocking solar or thermal energy, capable of storing a significant amount of energy (ΔH = 89 kJ/mol).
-This new program allowed to study this system after the electronic excitation triggered by several different external pulses.</description>
+      <description>This package propagates a 3D wavepacket on many electronic states, taking into account the coupling between states and the coupling with an external field.
+We used this program to study the [2+2]photo-cycloaddition of norbornadiene, one of the most promising molecules to store solar or thermal energy.
+We could study the events that follow the electronic excitation triggered by several different external pulses. The video shows the first 100 fs of a simulation where an infrared pulse creates a complex superposition of 4-5 electronic states.</description>
     </item>
     
     <item>
@@ -124,8 +124,8 @@ However, a chemical reaction can be composed of more than one step, and it can b
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alessiovalentini.com/portfolio/3-shmd/</guid>
-      <description>In my collaboration with OpenMolcas I have implemented tools to perform semiclassical molecular dynamics. This allow us to study photoactive proteins, as in the following video.
- Your browser does not support the video tag.  </description>
+      <description>In this project in collaboration with OpenMolcas, I implemented the Tully surface hopping algorithm to perform semiclassical molecular dynamics and study photoactive proteins. The video shows our modeling of the events following the photon absorption: we see the trajectory of a rhodopsin that &amp;ldquo;hops&amp;rdquo; from the excited state to the ground state using a conical intersection.
+ Your browser does not support the video tag.   Watch the VR version here!</description>
     </item>
     
   </channel>
