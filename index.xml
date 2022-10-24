@@ -124,7 +124,7 @@ However, a chemical reaction can be composed of more than one step, and it can b
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alessiovalentini.com/portfolio/3-shmd/</guid>
-      <description>A video of a QM/MM surface hop trajectory.
+      <description>In my collaboration with OpenMolcas I have implemented tools to perform semiclassical molecular dynamics. This allow us to study photoactive proteins, as in the following video.
  Your browser does not support the video tag.  </description>
     </item>
     
